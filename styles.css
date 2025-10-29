@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-color: #1a1a1a;
+    background-color: #0a0a0a;
     background-image: radial-gradient(circle at 20% 30%, rgba(200, 200, 200, 0.2), transparent 40%),
                       radial-gradient(circle at 80% 70%, rgba(200, 200, 200, 0.2), transparent 40%),
                       radial-gradient(circle at 50% 50%, rgba(200, 200, 200, 0.1), transparent 30%);
@@ -15,7 +15,7 @@ body {
 
 #header {
   text-align:center;
-  margin: 2rem 2rem;
+  padding: 2.5rem 2rem 2rem 2rem;
 }
 
 #logo {
